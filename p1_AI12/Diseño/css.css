@@ -1,0 +1,45 @@
+.Contenido{
+width: 40%;
+height: 500px;
+background-color: rgba(114,211,114,0.54);
+border-style: solid;
+text-align: center;
+
+}
+
+button {
+	padding: 10px;
+	display: inline-block;
+	position: center;
+
+
+}
+.hd a{
+	display: inline-block;
+	padding: 10px;
+	text-decoration: none;
+	background-color: #2668;
+	border-top: 50px;
+	width: 70px;
+
+}
+.hd{
+	border-top: 50px;
+	background-color: white-blue;
+}
+
+button:hover {
+	background-color: black;
+	color: white;
+
+
+}
+
+.hd a:hover{
+	background-color: black;
+	color: white;
+}
+
+body{
+	
+}
